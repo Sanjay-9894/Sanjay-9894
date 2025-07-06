@@ -1,14 +1,11 @@
+# 💫 Hi 👋, I'm Sanjay Raj <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">
 
-<h1>Hi 👋, I'm Sanjay Raj <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"> <h1>
-
-**A passionate Software Developer || undergrad at IIITDMJ**
-
-- 🔭 **I’m currently working on:** Multithreaded Proxy Web Server with Cache
+- 🔭 **I’m currently working on:** Multithreaded Proxy Web Server
 - 🌱 **I’m currently learning:** Advanced backend system design, AWS Lambda, and design patterns in C++
 - 🤔 **I’m looking for help with:** Optimizing backend performance and reducing latency in real-time systems
 - 💬 **Ask me about:** Backend architecture, React, Firebase, Node.js, DSA in C++/Python
 - 📫 **How to reach me:** raj52.dev@gmail.com
-- ⚡ **Fun fact:**  I love solving tough problems, especially debugging complex systems under pressure!
+- ⚡ **Fun fact:** I love solving tough problems, especially debugging complex systems under pressure!
 
 
   ## 🏆 GitHub Trophies
