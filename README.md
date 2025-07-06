@@ -1,3 +1,16 @@
+# 💫 Hi 👋, I'm Sanjay Raj
+**A passionate Software Developer || undergrad at IIITDMJ**
+
+Email Me 👉 ✉️ **raj52.dev@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 I’m currently working on:  Multithreaded Proxy Web Server in C/C++
+🌱 I’m currently learning: Advanced backend system design, AWS Lambda, and design patterns in C++
+👯 I’m looking to collaborate on: Scalable web apps, full-stack projects, or deep learning tools
+🤔 I’m looking for help with: Optimizing backend performance and reducing latency in real-time systems
+💬 Ask me about: Backend architecture, React, Firebase, Node.js, DSA in C++/Python
+📫 How to reach me: raj52.dev@gmail.com
+😄 Pronouns: He/Him (Sanjay)
+⚡ Fun fact: I love solving tough problems, especially debugging complex systems under pressure!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_sxnjxyrxj_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjay-raj-m) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raj52.dev@gmail.com) 
