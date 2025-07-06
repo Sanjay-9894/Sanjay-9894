@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Sanjay Raj
+<h1 align="center">Hi 👋, I'm Sanjay Raj<img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 **A passionate Software Developer || undergrad at IIITDMJ**
 
 Email Me 👉 ✉️ **raj52.dev@gmail.com** For Collaboration/Project or Anything Else. 😊😊
