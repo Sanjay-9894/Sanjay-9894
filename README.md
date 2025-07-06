@@ -1,4 +1,5 @@
-<h1>Hi 👋, I'm Sanjay Raj<img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+
+<h1>Hi 👋, I'm Sanjay Raj <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"> <h1>
 
 **A passionate Software Developer || undergrad at IIITDMJ**
 
