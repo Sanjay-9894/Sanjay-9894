@@ -1,15 +1,12 @@
-<h1 align="center">Hi 👋, I'm Sanjay Raj<img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-**A passionate Software Developer || undergrad at IIITDMJ**
+<h1>Hi 👋, I'm Sanjay Raj<img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 
-Email Me 👉 ✉️ **raj52.dev@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+**A passionate Software Developer || undergrad at IIITDMJ**
 
 - 🔭 **I’m currently working on:** Multithreaded Proxy Web Server with Cache
 - 🌱 **I’m currently learning:** Advanced backend system design, AWS Lambda, and design patterns in C++
-- 👯 **I’m looking to collaborate on:** Scalable web apps, full-stack projects, or deep learning tools
 - 🤔 **I’m looking for help with:** Optimizing backend performance and reducing latency in real-time systems
 - 💬 **Ask me about:** Backend architecture, React, Firebase, Node.js, DSA in C++/Python
 - 📫 **How to reach me:** raj52.dev@gmail.com
-- 😄 **Pronouns:** He/Him (Sanjay)
 - ⚡ **Fun fact:**  I love solving tough problems, especially debugging complex systems under pressure!
 
 
