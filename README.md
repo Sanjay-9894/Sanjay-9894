@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **raj52.dev@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
+- 🔭 **I’m currently working on:** Multithreaded Proxy Web Server with Cache
 - 🌱 **I’m currently learning:** Advanced backend system design, AWS Lambda, and design patterns in C++
 - 👯 **I’m looking to collaborate on:** Scalable web apps, full-stack projects, or deep learning tools
 - 🤔 **I’m looking for help with:** Optimizing backend performance and reducing latency in real-time systems
